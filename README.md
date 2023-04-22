@@ -22,7 +22,7 @@
    - [Discord](https://discord.gg/yD2JnmrXQa)
 
 ## WordPress
- - Version: TBA
+ - Version: 6.2
  - Themes:
    - TBA
 
