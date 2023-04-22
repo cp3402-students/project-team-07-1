@@ -1,5 +1,5 @@
 # Townsville and Thuringowa Country Music Assosciation (TTCMA)
-*JCU Cairns & Townsville, 2023 SP1, CP3402 A2, Team 10*
+*JCU Cairns & Townsville, 2023 SP1, CP3402 A2, Team 07*
 
 ## Authors
  - [Adam Edgar](https://github.com/AdsyEdge)
