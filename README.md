@@ -13,7 +13,7 @@
  - Hosting software: TBA
  - Apache 2.4.43
  - PHP 8.1.9
- - MySQL 5.7.28
+ - MySQL 8.0.16
 
 ## Workflow
  - Collaboration
