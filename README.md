@@ -11,9 +11,9 @@
  - Domain: TBA
  - Address: TBA
  - Hosting software: TBA
- - Apache 2.4.43
- - PHP 8.1.9
- - MySQL 8.0.16
+ - Apache 2.4.56
+ - PHP 8.2.4
+ - MySQL 8.2.4
 
 ## Workflow
  - Collaboration
@@ -24,7 +24,7 @@
 ## WordPress
  - Version: 6.2
  - Themes:
-   - TBA
+   - UnderStrap
 
 ## Plugins
  - TBA
