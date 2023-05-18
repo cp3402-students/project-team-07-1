@@ -31,15 +31,18 @@ body {
 	background-color: white;
 	font-family: 'FontName', Roboto;
 	font-size: 17px;
+	text-align: justify;
 }
 
 .site {
-	margin-left: 10%; 
-	margin-right: 10%; 
-	padding-left: 20px;  
-	padding-right: 20px; 
+	margin-left: 15%; 
+	margin-right: 15%; 
 	background-color: white;
 	border-radius: 15px; 
+}
+
+.site-main {
+	padding:0 12px;
 }
 
 header {
@@ -50,6 +53,10 @@ header {
 h1, h2 {
 	color: black; 
 	font-weight: bold;
+}
+
+.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link {
+	width: 75%;
 }
 
 .link p {
@@ -91,15 +98,99 @@ h1, h2 {
 	display: none;
 }
 
-.site-info{
- display:none;
-}
-
-/* 
-.entry-title {
-	display: none;
-} */
-
 .page-title {
 	display: none;
+}
+
+.forminator-guttenberg {
+	width: 50%;
+	margin: auto;
+}
+
+.comment-meta {
+	background-color: white;
+}
+
+.form-submit input {
+	background-color: #ED2B2A;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px;
+	border-radius: 10px;
+	border: none;
+	cursor: pointer;
+}
+
+.form-submit input:hover {
+	background-color: #F15A59;
+}
+
+footer {
+	background-color: #32373C;
+	padding: 10px;
+}
+
+footer ul {
+	list-style:none;
+	margin-left: -40px;
+}
+
+.container-footer {
+	max-width: 1350px;
+	margin: auto;
+}
+
+.row-footer {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.column-footer h2 {
+	color: white;
+	position: relative;
+	margin-bottom: 40px;
+}
+
+.column-footer h2::before {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	background-color: yellow;
+	height: 2px;
+	box-sizing: border-box;
+	width: 80px;
+}
+
+.column-footer {
+	width: 30%;
+	padding: 0 20px;
+}
+
+.column-footer ul li a {
+	color: #C3D2D5;
+	text-decoration: none;
+	font-size: 20px;
+	transition: all 0.2s ease;
+}
+
+.column-footer ul li a:hover {
+	color: white;
+	padding-left: 10px;
+}
+
+.column-footer ul li {
+	margin-bottom: 10px;
+} 
+
+.column-footer .social-links a {
+	color: white;
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: grey;
+	margin-right: 10px;
+	text-align: center;
+	line-height: 40px;
 }
