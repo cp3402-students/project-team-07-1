@@ -24,7 +24,14 @@
 ## WordPress
  - Version: 6.2
  - Themes:
-   - UnderStrap
+   - Underscores
+
+## Documentation
+- deployment.md (https://github.com/cp3402-students/project-team-07/blob/main/deployment.md)
+- theme.md (https://github.com/cp3402-students/project-team-07/blob/main/theme.md)
+- site.md (https://github.com/cp3402-students/project-team-07/blob/main/site.md)
 
 ## Plugins
- - TBA
+ - Forminator (https://wordpress.org/plugins/forminator/)
+ - Photo Gallery (https://wordpress.org/plugins/photo-gallery/)
+ - WordPress Popular Posts (https://wordpress.org/plugins/wordpress-popular-posts/)
