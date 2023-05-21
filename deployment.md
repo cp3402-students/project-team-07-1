@@ -19,6 +19,7 @@ For testing any changes, our workflow follows this guideline:
    - Make any developments on the Local Environment.
    - Test any changes you've made via opening your browser to LocalHost.
    - Once you're satisfied with your developments, push to the "Local" branch of the GitHub Repository.
+
  - Staging Testing
    - When you've made any changes to the Local Branch, it must then be tested on an online site, but not a publically-available site.
    - Navigate to Hostinger's backend, then to the Git tab under "Advanced" and deploy the updates from your "Local" branch repository into its file server.
