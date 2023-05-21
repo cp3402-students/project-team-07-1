@@ -14,12 +14,12 @@ For all version control, we used Git for coordinated work among our team, and us
 # Testing
 
 For testing any changes, our workflow follows this guideline:
- - ##Local Testing
+ ##Local Testing
    - Ensure your Local Environment is up-to-date with the repository before working.
    - Make any developments on the Local Environment.
    - Test any changes you've made via opening your browser to LocalHost.
    - Once you're satisfied with your developments, push to the "Local" branch of the GitHub Repository.
- - ##Staging Testing
+ ##Staging Testing
    - When you've made any changes to the Local Branch, it must then be tested on an online site, but not a publically-available site.
    - Navigate to Hostinger's backend, then to the Git tab under "Advanced" and deploy the updates from your "Local" branch repository into its file server.
    - Once the deployment is complete, you'll have to manually copy the files from your downloaded repository to the Wordpress folder, over-writing files with the updated files.
