@@ -30,7 +30,7 @@ To pull from the repository, you can easily use GitHub Desktop's GUI to simplify
 
 To push to the repository, you can easily use GitHub Desktop's GUI to simplify the process. If you want to use GIT, follow these steps:
  1. To commit your work, enter `git commit -m "ENTER COMMIT MESSAGE HERE"`.
- 2. Now you need to push it to the repository. Enter in `git push <branch>`
+ 2. Now you need to push it to the repository. Enter in `git push`
    - Replace <branch> with 'local' if you're working on the local branch, and with 'main' if you're working on the main branch.
 
 # Testing
