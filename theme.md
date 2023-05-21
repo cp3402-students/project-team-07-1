@@ -22,6 +22,9 @@ Comments can be posted on each photo from the photo gallery by selecting the app
 For TTCMA Inc, we used the serif font typeface "Rockwell", designed by Monotype Corporation for the majority of the website. This font is user-friendly, attractive, easy-to-read, and (as requested) "country styled".
 
 ## Header.php
+To make changes to the header content, you'll need to access the header.php file. The Navbar has been structured in a way to be as linear as possible; With the homepage being on the far left, then the about us section next, then miscellaneous pages, then at the far right, you have the contact us section. This was intentional, as to follow a general structure that most other websites use for their Navbars. 
+
+The colour of the header was designed to be grey, so that it is suitable for almost every conveibale colour combination provided. This way, each page didn't needed to be restricted on what colours to use. The thick spacing of the navbar was to reduce space at the top of the page, as to fit more content in. This is by combining the Logo with the navbar, instead of a traditional Image above the navbar.
 
 ## Footer.php
 To make changes to the footer content (HTML, not CSS), you need to access the 'footer.php' file. The footer has been structured into three different content divisions (container, row, column) to align with the site's goals and emphasize separate links that serve different purposes. For example, the "About Club" page is separated from the contact links to make it more prominent, matching the dropdown menu for the "About Us" section in the site's header.  
