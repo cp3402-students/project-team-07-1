@@ -9,8 +9,8 @@
 
 ## Server
  - Domain: TBA
- - Address: TBA
- - Hosting software: TBA
+ - Address: [http://ttcma.jaydavisjcu.com/](http://ttcma.jaydavisjcu.com/)
+ - Hosting software: XAMPP (Local) / Hostinger (Staging) / Hostinger (Production)
  - Apache 2.4.56
  - PHP 8.2.4
  - MySQL 8.2.4
