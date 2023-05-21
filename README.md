@@ -31,11 +31,11 @@
    - Underscores
 
 ## Documentation
-- deployment.md (https://github.com/cp3402-students/project-team-07/blob/main/deployment.md)
-- theme.md (https://github.com/cp3402-students/project-team-07/blob/main/theme.md)
-- site.md (https://github.com/cp3402-students/project-team-07/blob/main/site.md)
+- [deployment.md](https://github.com/cp3402-students/project-team-07/blob/main/deployment.md)
+- [theme.md](https://github.com/cp3402-students/project-team-07/blob/main/theme.md)
+- [site.md] (https://github.com/cp3402-students/project-team-07/blob/main/site.md)
 
 ## Plugins
- - Forminator (https://wordpress.org/plugins/forminator/)
- - Photo Gallery (https://wordpress.org/plugins/photo-gallery/)
- - WordPress Popular Posts (https://wordpress.org/plugins/wordpress-popular-posts/)
+ - [Forminator](https://wordpress.org/plugins/forminator/)
+ - [Photo Gallery](https://wordpress.org/plugins/photo-gallery/)
+ - [WordPress Popular Posts](https://wordpress.org/plugins/wordpress-popular-posts/)
