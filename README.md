@@ -8,8 +8,12 @@
  - [Jay Davis](https://github.com/Jay-Davis-191)
 
 ## Server
- - Domain: adsyedgedigital.com/ttcma (Staging) / jaydavisjcu.com (Production)
- - Address: [https://adsyedgedigital.com/ttcma](https://adsyedgedigital.com/ttcma) (Staging) / [http://ttcma.jaydavisjcu.com/](http://ttcma.jaydavisjcu.com/) (Production)
+ - Domain: 
+   - adsyedgedigital.com/ttcma (Staging)
+   - jaydavisjcu.com (Production)
+ - Address: 
+   - [https://adsyedgedigital.com/ttcma](https://adsyedgedigital.com/ttcma) (Staging)
+   - [http://ttcma.jaydavisjcu.com/](http://ttcma.jaydavisjcu.com/) (Production)
  - Hosting software: XAMPP (Local) / Hostinger (Staging) / Hostinger (Production)
  - Apache 2.4.56
  - PHP 8.2.4
