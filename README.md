@@ -33,7 +33,7 @@
 ## Documentation
 - [deployment.md](https://github.com/cp3402-students/project-team-07/blob/main/deployment.md)
 - [theme.md](https://github.com/cp3402-students/project-team-07/blob/main/theme.md)
-- [site.md] (https://github.com/cp3402-students/project-team-07/blob/main/site.md)
+- [site.md](https://github.com/cp3402-students/project-team-07/blob/main/site.md)
 
 ## Plugins
  - [Forminator](https://wordpress.org/plugins/forminator/)
